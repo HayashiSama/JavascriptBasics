@@ -1,0 +1,59 @@
+/*CSS reset settings here*/
+*{
+ margin: 0px;
+ padding: 0px;
+ vertical-align: top;
+color:rgb(191,215,234);
+    border-radius: 25px;
+
+}
+
+a{
+	color:rgb(75,207,198);
+}
+
+.emphasis{
+	color: rgb(118,146,248);
+}
+
+#wrapper{
+ width: 970px;
+ background-color: rgb(18,53,91);
+ margin: 0px auto;
+ padding: 20px;
+ border-radius:0px;
+}
+
+#header{
+
+ background-color: rgb(315,38,56);
+ padding:20px;
+ margin-bottom:1%;
+ font-weight:bold;
+ 
+}
+#navigation{
+ padding:20px;
+ width: 260px;
+ display: inline-block;
+ background-color: rgb(8,126,139);
+}
+#main_content{
+ width: 620px;
+ display: inline-block;
+ background-color: rgb(12,24,33);
+ padding: 20px;
+ vertical-align: top;
+ margin-left:1%;
+ padding-right:1%;
+}
+#footer{
+	width:950px;
+	margin-top:10px;
+ 	background-color: rgb(92,102,114);
+ 	padding:10px;
+ 	padding-top:20px;
+ 	padding-bottom:20px;
+
+}
+ul { margin: 0; margin-left : 20px; }
